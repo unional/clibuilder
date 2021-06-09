@@ -9719,19 +9719,10 @@ terminal-link@^2.0.0:
     ansi-escapes "^4.2.1"
     supports-hyperlinks "^2.0.0"
 
-tersify@^3.0.6, tersify@^3.7.0, tersify@^3.7.7:
+tersify@^3.0.6, tersify@^3.7.0, tersify@^3.7.7, tersify@^3.7.8:
   version "3.7.8"
   resolved "https://registry.yarnpkg.com/tersify/-/tersify-3.7.8.tgz#4ea998262b4c1a701d23a73b01fa8a3bb276fc86"
   integrity sha512-fa5WwVR5HDOLb/j1KIl/bw1OijyWTiOPotWLdlzn0HUCDey28Og8i7+e90gM68I167bKIhCkpjHL2+l3j4J7Pg==
-  dependencies:
-    acorn "^8.0.5"
-    is-buffer "^2.0.5"
-    unpartial "^0.6.3"
-
-tersify@^3.7.8:
-  version "3.7.8"
-  resolved "https://af.paloaltonetworks.local:443/artifactory/api/npm/npm-panvirt/tersify/-/tersify-3.7.8.tgz#4ea998262b4c1a701d23a73b01fa8a3bb276fc86"
-  integrity sha1-TqmYJitMGnAdI6c7AfqKO7J2/IY=
   dependencies:
     acorn "^8.0.5"
     is-buffer "^2.0.5"
@@ -9884,9 +9875,9 @@ treeify@^1.1.0:
   integrity sha512-1m4RA7xVAJrSGrrXGs0L3YTwyvBs2S8PbRHaLZAkFw7JR8oIFwYtysxlBZhYIa7xSyiYJKZ3iGrrk55cGA3i9A==
 
 trim-newlines@^3.0.0:
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/trim-newlines/-/trim-newlines-3.0.0.tgz#79726304a6a898aa8373427298d54c2ee8b1cb30"
-  integrity sha512-C4+gOpvmxaSMKuEf9Qc134F1ZuOHVXKRbtEflf4NTtuuJDEIJ9p5PXsalL8SkeRw+qit1Mo+yuvMPAKwWg/1hA==
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/trim-newlines/-/trim-newlines-3.0.1.tgz#260a5d962d8b752425b32f3a7db0dcacd176c144"
+  integrity sha512-c1PTsA3tYrIsLGkJkzHF+w9F2EyxfXGo4UyJc4pFL++FMjnq0HJS69T3M7d//gKrFKwy429bouPescbjecU+Zw==
 
 trim-off-newlines@^1.0.0:
   version "1.0.1"
