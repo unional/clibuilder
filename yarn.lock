@@ -7307,9 +7307,9 @@ normalize-path@^3.0.0, normalize-path@~3.0.0:
   integrity sha512-6eZs5Ls3WtCisHWp9S2GUy8dqkpGi4BVSz3GaqiE6ezub0512ESztXUwUB6C6IKbQkY2Pnb/mD4WYojCRwcwLA==
 
 normalize-url@^4.1.0:
-  version "4.5.0"
-  resolved "https://registry.yarnpkg.com/normalize-url/-/normalize-url-4.5.0.tgz#453354087e6ca96957bd8f5baf753f5982142129"
-  integrity sha512-2s47yzUxdexf1OhyRi4Em83iQk0aPvwTddtFz4hnSSw9dCEsLEGf6SwIO8ss/19S9iBb5sJaOuTvTGDeZI00BQ==
+  version "4.5.1"
+  resolved "https://registry.yarnpkg.com/normalize-url/-/normalize-url-4.5.1.tgz#0dd90cf1288ee1d1313b87081c9a5932ee48518a"
+  integrity sha512-9UZCFRHQdNrfTpGg8+1INIg93B6zE0aXMVFkw1WFwvO4SlZywU6aLg5Of0Ap/PgcbSw4LNxvMWXMeugwMCX0AA==
 
 normalize-url@^5.0.0:
   version "5.3.0"
@@ -9719,19 +9719,10 @@ terminal-link@^2.0.0:
     ansi-escapes "^4.2.1"
     supports-hyperlinks "^2.0.0"
 
-tersify@^3.0.6, tersify@^3.7.0, tersify@^3.7.7:
+tersify@^3.0.6, tersify@^3.7.0, tersify@^3.7.7, tersify@^3.7.8:
   version "3.7.8"
   resolved "https://registry.yarnpkg.com/tersify/-/tersify-3.7.8.tgz#4ea998262b4c1a701d23a73b01fa8a3bb276fc86"
   integrity sha512-fa5WwVR5HDOLb/j1KIl/bw1OijyWTiOPotWLdlzn0HUCDey28Og8i7+e90gM68I167bKIhCkpjHL2+l3j4J7Pg==
-  dependencies:
-    acorn "^8.0.5"
-    is-buffer "^2.0.5"
-    unpartial "^0.6.3"
-
-tersify@^3.7.8:
-  version "3.7.8"
-  resolved "https://af.paloaltonetworks.local:443/artifactory/api/npm/npm-panvirt/tersify/-/tersify-3.7.8.tgz#4ea998262b4c1a701d23a73b01fa8a3bb276fc86"
-  integrity sha1-TqmYJitMGnAdI6c7AfqKO7J2/IY=
   dependencies:
     acorn "^8.0.5"
     is-buffer "^2.0.5"
